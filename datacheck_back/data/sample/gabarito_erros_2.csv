@@ -1,0 +1,37 @@
+linha_original,coluna,categorias_esperadas,valor_inserido,descricao
+4,Longitude,geo_fora_limite,"200,5000",Longitude acima de 180
+9,Data do registro,data_invalida,31/13/2024,Mês 13 não existe
+13,Município,valores_ausentes,n/a,Marcador de ausência n/a
+19,Município,valores_ausentes,,Município vazio
+24,Município,valores_ausentes,   ,Município só com espaços
+26,Município,valores_ausentes,,Município vazio
+27,Longitude,geo_fora_limite,"-250,1000",Longitude abaixo de -180
+28,Quantidade de famílias,fora_limites,-15,Valor negativo (mínimo configurado: 0)
+32,Latitude,valores_ausentes;geo_ausente,,Latitude vazia
+33,Município,valores_ausentes,N/A,Marcador de ausência N/A
+35,Latitude,geo_fora_limite,"123,4500",Latitude acima de 90
+36,Quantidade de famílias,fora_limites,9999999,Acima do máximo configurado (100000)
+37,Data do registro,data_futura,10/05/2031,Data futura
+42,Situação,valores_ausentes,,Situação vazia
+45,Quantidade de famílias,valores_ausentes,,Quantidade de famílias vazia
+48,Data do registro,data_fora_limite,01/01/1899,Anterior ao mínimo configurado (1990-01-01)
+49,Data do registro,valores_ausentes,,Data vazia
+50,Quantidade de famílias,fora_limites,-3,Valor negativo (mínimo configurado: 0)
+51,Quantidade de famílias,tipo_incompativel,doze,Texto em coluna numérica
+52,(linha completa),duplicados,"5051 | Rio das Pedras Altas | -5,5583 | -72,2596",Original; repetido na linha 101
+54,Latitude,geo_nao_numerica,abc,Latitude com texto
+57,(linha completa),duplicados,"5056 | Bela Vista do Planalto | -8,8913 | -42,5381",Original; repetido na linha 99
+62,(linha completa),duplicados,"5061 | Praia Grande do Sul | -14,9591 | -37,4836",Original; repetido na linha 100
+65,Data do registro,data_invalida,ontem,Texto no lugar de data
+69,Quantidade de famílias,tipo_incompativel,"12,5x",Número com caractere extra
+72,Município,valores_ausentes,,Município vazio
+73,Situação,valores_ausentes,,Situação vazia
+74,Latitude,geo_fora_limite,"-95,2000",Latitude abaixo de -90
+81,Quantidade de famílias,tipo_incompativel,trinta,Texto em coluna numérica
+86,(linha completa),duplicados,"5085 | Rio das Pedras Altas | -6,2732 | -64,2074",Original; repetido na linha 98
+91,Data do registro,data_invalida,30/02/2023,30 de fevereiro não existe
+93,Quantidade de famílias,valores_ausentes,,Quantidade de famílias vazia
+98,(linha completa),duplicados,"5085 | Rio das Pedras Altas | -6,2732 | -64,2074",Cópia exata da linha 86
+99,(linha completa),duplicados,"5056 | Bela Vista do Planalto | -8,8913 | -42,5381",Cópia exata da linha 57
+100,(linha completa),duplicados,"5061 | Praia Grande do Sul | -14,9591 | -37,4836",Cópia exata da linha 62
+101,(linha completa),duplicados,"5051 | Rio das Pedras Altas | -5,5583 | -72,2596",Cópia exata da linha 52

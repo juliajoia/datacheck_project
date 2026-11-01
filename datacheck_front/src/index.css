@@ -1,0 +1,67 @@
+@import "@fontsource-variable/inter";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 40% 98%;       /* #F8FAFC */
+    --foreground: 222 47% 11%;       /* #0F172A */
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 221 83% 53%;          /* #2563EB */
+    --primary-foreground: 0 0% 100%;
+    --brand: 262 83% 58%;            /* #7C3AED */
+    --secondary: 214 32% 94%;
+    --secondary-foreground: 222 47% 11%;
+    --muted: 214 32% 94%;
+    --muted-foreground: 215 16% 40%;
+    --accent: 221 83% 96%;
+    --accent-foreground: 221 83% 40%;
+    --success: 142 76% 36%;          /* #16A34A */
+    --warning: 38 92% 50%;           /* #F59E0B */
+    --destructive: 0 72% 51%;        /* #DC2626 */
+    --border: 214 32% 90%;
+    --input: 214 32% 86%;
+    --ring: 221 83% 53%;
+    --radius: 0.75rem;
+  }
+  .dark {
+    --background: 224 40% 7%;
+    --foreground: 210 40% 96%;
+    --card: 224 34% 11%;
+    --card-foreground: 210 40% 96%;
+    --popover: 224 34% 11%;
+    --popover-foreground: 210 40% 96%;
+    --primary: 217 91% 63%;
+    --primary-foreground: 224 40% 7%;
+    --brand: 262 90% 70%;
+    --secondary: 223 25% 18%;
+    --secondary-foreground: 210 40% 96%;
+    --muted: 223 25% 16%;
+    --muted-foreground: 215 20% 70%;
+    --accent: 223 35% 20%;
+    --accent-foreground: 217 91% 75%;
+    --success: 142 69% 45%;
+    --warning: 38 92% 55%;
+    --destructive: 0 80% 62%;
+    --border: 223 25% 20%;
+    --input: 223 25% 24%;
+    --ring: 217 91% 63%;
+  }
+  * { @apply border-border; }
+  body { @apply bg-background text-foreground antialiased; font-feature-settings: "cv11", "ss01"; }
+  /* Barras de rolagem de toda a aplicação: trilho transparente e só o "polegar" visível (claro e escuro). */
+  * { scrollbar-width: thin; scrollbar-color: hsl(var(--muted-foreground) / 0.4) transparent; }
+  *::-webkit-scrollbar { width: 10px; height: 10px; background: transparent; }
+  *::-webkit-scrollbar-track, *::-webkit-scrollbar-corner { background: transparent; }
+  *::-webkit-scrollbar-thumb { background-color: hsl(var(--muted-foreground) / 0.4); border-radius: 9999px; border: 2px solid transparent; background-clip: content-box; }
+  *::-webkit-scrollbar-thumb:hover { background-color: hsl(var(--muted-foreground) / 0.65); }
+  :focus-visible { @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

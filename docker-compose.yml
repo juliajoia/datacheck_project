@@ -1,0 +1,21 @@
+# PostgreSQL para desenvolvimento local. Backend e frontend rodam fora do Docker (veja o README).
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: datacheck-db
+    environment:
+      POSTGRES_USER: datacheck
+      POSTGRES_PASSWORD: datacheck
+      POSTGRES_DB: datacheck
+    ports:
+      - "5432:5432"
+    volumes:
+      - datacheck_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U datacheck -d datacheck"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  datacheck_pgdata:

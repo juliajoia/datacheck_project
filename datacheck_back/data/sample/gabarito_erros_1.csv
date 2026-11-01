@@ -1,0 +1,37 @@
+linha_original,coluna,categorias_esperadas,valor_inserido,descricao
+2,(linha completa),duplicados,1001 | Terra Branca | -28.7694 | -44.8211,Original; repetido na linha 99
+14,Data do registro,data_invalida,2023-02-30,30 de fevereiro não existe
+17,Latitude,valores_ausentes;geo_ausente,,Latitude vazia
+24,(linha completa),duplicados,1023 | Rio Claro do Norte | -5.1875 | -41.9911,Original; repetido na linha 98
+25,Longitude,geo_fora_limite,200.5000,Longitude acima de 180
+26,Data do registro,valores_ausentes,,Data vazia
+29,Quantidade de famílias,tipo_incompativel,doze,Texto em coluna numérica
+31,Situação,valores_ausentes,,Situação vazia
+34,Quantidade de famílias,valores_ausentes,,Quantidade de famílias vazia
+36,Quantidade de famílias,valores_ausentes,,Quantidade de famílias vazia
+37,Quantidade de famílias,tipo_incompativel,"12,5x",Número com caractere extra
+38,Quantidade de famílias,fora_limites,9999999,Acima do máximo configurado (100000)
+39,Data do registro,data_invalida,ontem,Texto no lugar de data
+41,Situação,valores_ausentes,,Situação vazia
+42,Latitude,geo_fora_limite,123.4500,Latitude acima de 90
+44,Município,valores_ausentes,,Município vazio
+47,Município,valores_ausentes,N/A,Marcador de ausência N/A
+48,Data do registro,data_fora_limite,1899-01-01,Anterior ao mínimo configurado (1990-01-01)
+56,Município,valores_ausentes,,Município vazio
+60,Município,valores_ausentes,   ,Município só com espaços
+63,Quantidade de famílias,tipo_incompativel,trinta,Texto em coluna numérica
+69,Quantidade de famílias,fora_limites,-3,Valor negativo (mínimo configurado: 0)
+70,Longitude,geo_fora_limite,-250.1000,Longitude abaixo de -180
+72,Município,valores_ausentes,,Município vazio
+76,(linha completa),duplicados,1075 | Monte Alegre do Leste | -30.6339 | -41.3501,Original; repetido na linha 100
+77,Quantidade de famílias,fora_limites,-15,Valor negativo (mínimo configurado: 0)
+81,Data do registro,data_invalida,31/13/2024,Mês 13 não existe
+83,(linha completa),duplicados,1082 | Ilha Formosa | 3.3769 | -71.4702,Original; repetido na linha 101
+86,Latitude,geo_nao_numerica,abc,Latitude com texto
+87,Latitude,geo_fora_limite,-95.2000,Latitude abaixo de -90
+88,Data do registro,data_futura,2031-05-10,Data futura
+91,Município,valores_ausentes,n/a,Marcador de ausência n/a
+98,(linha completa),duplicados,1023 | Rio Claro do Norte | -5.1875 | -41.9911,Cópia exata da linha 24
+99,(linha completa),duplicados,1001 | Terra Branca | -28.7694 | -44.8211,Cópia exata da linha 2
+100,(linha completa),duplicados,1075 | Monte Alegre do Leste | -30.6339 | -41.3501,Cópia exata da linha 76
+101,(linha completa),duplicados,1082 | Ilha Formosa | 3.3769 | -71.4702,Cópia exata da linha 83

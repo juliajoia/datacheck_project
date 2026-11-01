@@ -1,0 +1,101 @@
+ID,Município,Latitude,Longitude,Data do registro,Quantidade de famílias,Situação
+1001,Terra Branca,-28.7694,-44.8211,2023-04-05,849,Ativo
+1002,Boa Esperança do Mar,-16.9670,-71.8677,2023-04-17,4941,Ativo
+1003,Porto Seguro do Oeste,-25.4442,-48.3044,2025-07-08,3689,Em análise
+1004,Ilha Formosa,0.0334,-44.1653,2023-12-14,2797,Em análise
+1005,Serra Dourada,-24.8181,-43.9872,2023-02-13,802,Em análise
+1006,Cachoeira Grande,-19.9297,-62.9482,2023-12-15,4402,Ativo
+1007,São Ludgero Novo,-18.6157,-52.0225,2025-10-28,2972,Inativo
+1008,Alto Horizonte,-30.3569,-47.8720,2024-02-28,1917,Ativo
+1009,Monte Alegre do Leste,-22.4370,-48.8440,2024-03-12,2920,Inativo
+1010,Terra Branca,-22.8548,-37.4071,2025-02-20,1411,Inativo
+1011,Serra Dourada,-15.4341,-62.7420,2025-12-18,1809,Em análise
+1012,Cachoeira Grande,-3.8041,-70.8744,2023-06-13,2203,Ativo
+1013,Campo Verde Alto,1.6992,-51.4472,2023-02-30,4099,Concluído
+1014,São Ludgero Novo,1.7528,-55.5636,2024-03-08,4608,Em análise
+1015,Alto Horizonte,-10.7857,-38.8827,2024-06-08,1143,Concluído
+1016,Rio Claro do Norte,,-40.2781,2023-11-06,3468,Ativo
+1017,Monte Alegre do Leste,-18.4985,-35.1474,2025-05-18,104,Ativo
+1018,Terra Branca,0.6220,-44.4666,2025-06-04,2414,Concluído
+1019,Serra Dourada,-15.7585,-36.7550,2025-05-17,1473,Ativo
+1020,Cachoeira Grande,-9.2386,-41.0166,2025-10-07,1262,Em análise
+1021,Ilha Formosa,-26.8611,-36.7670,2025-01-20,2665,Concluído
+1022,Vila Nova do Sul,-28.7490,-59.2067,2024-04-02,1983,Ativo
+1023,Rio Claro do Norte,-5.1875,-41.9911,2025-03-05,3903,Inativo
+1024,Pedra Azul do Vale,-12.9484,200.5000,2023-09-25,1657,Em análise
+1025,Monte Alegre do Leste,4.8157,-48.3046,,1001,Inativo
+1026,Campo Verde Alto,-30.5670,-72.2007,2025-04-19,1814,Ativo
+1027,Rio Claro do Norte,-6.1020,-70.7628,2023-01-28,2716,Ativo
+1028,Porto Seguro do Oeste,-23.9558,-47.5788,2023-09-05,doze,Concluído
+1029,Campo Verde Alto,-3.1845,-42.3151,2023-02-04,3541,Em análise
+1030,Monte Alegre do Leste,-17.3781,-40.1742,2023-11-21,816,
+1031,Monte Alegre do Leste,-5.3279,-42.5775,2023-04-07,1568,Concluído
+1032,Serra Dourada,-16.9685,-62.4153,2023-02-15,4518,Ativo
+1033,Vila Nova do Sul,-8.2185,-52.4577,2023-02-25,,Inativo
+1034,Monte Alegre do Leste,-14.5456,-64.8776,2024-01-06,3114,Ativo
+1035,Monte Alegre do Leste,-22.9223,-43.2053,2024-05-14,,Concluído
+1036,Serra Dourada,-25.7839,-64.7274,2023-10-24,"12,5x",Ativo
+1037,Alto Horizonte,-21.0830,-71.0946,2024-09-28,9999999,Inativo
+1038,Vila Nova do Sul,3.5096,-69.9558,ontem,566,Inativo
+1039,Monte Alegre do Leste,-28.4443,-39.1691,2023-10-20,335,Ativo
+1040,Monte Alegre do Leste,-8.0198,-51.5214,2024-05-07,2583,
+1041,Pedra Azul do Vale,123.4500,-47.4758,2024-08-11,604,Ativo
+1042,Santa Aurora,-9.3959,-51.6062,2023-02-18,1756,Em análise
+1043,,2.4639,-39.5272,2023-06-10,1302,Concluído
+1044,Cachoeira Grande,-12.3577,-61.5043,2025-09-01,4553,Em análise
+1045,São Ludgero Novo,-7.7912,-37.3207,2023-05-04,886,Inativo
+1046,N/A,-22.2933,-64.9961,2024-04-22,2172,Concluído
+1047,Pedra Azul do Vale,1.4028,-40.8481,1899-01-01,2276,Ativo
+1048,Vila Nova do Sul,-20.3249,-68.0289,2024-03-24,3629,Concluído
+1049,Porto Seguro do Oeste,-32.6326,-70.1407,2025-03-18,305,Em análise
+1050,Boa Esperança do Mar,-12.0040,-56.6681,2023-05-12,336,Em análise
+1051,Campo Verde Alto,-7.0815,-47.6565,2024-09-28,3339,Inativo
+1052,São Ludgero Novo,2.3355,-40.1450,2023-07-01,1479,Em análise
+1053,Ilha Formosa,2.3710,-42.5151,2025-04-09,1314,Ativo
+1054,Monte Alegre do Leste,0.1423,-40.3735,2023-04-27,3780,Em análise
+1055,,-1.8196,-39.8897,2023-01-22,1592,Concluído
+1056,Lagoa Funda,-22.4131,-70.3620,2024-06-21,4183,Concluído
+1057,Terra Branca,4.2837,-52.6238,2023-02-09,1472,Em análise
+1058,Vila Nova do Sul,-28.8807,-56.4866,2025-06-14,4976,Ativo
+1059,   ,1.1812,-65.7770,2023-12-14,23,Inativo
+1060,Lagoa Funda,-16.6107,-36.9428,2024-10-11,1030,Em análise
+1061,Porto Seguro do Oeste,-21.2472,-57.4811,2024-12-10,4551,Inativo
+1062,Campo Verde Alto,-17.0230,-37.2662,2025-12-06,trinta,Em análise
+1063,Monte Alegre do Leste,-12.1784,-72.9846,2024-04-14,4761,Em análise
+1064,Santa Aurora,-16.2121,-47.3262,2025-08-26,1400,Ativo
+1065,Pedra Azul do Vale,-13.4128,-48.9482,2024-02-27,1934,Em análise
+1066,Campo Verde Alto,-2.3506,-67.4005,2023-04-16,606,Concluído
+1067,Monte Alegre do Leste,0.6732,-51.1245,2025-12-13,4059,Concluído
+1068,Campo Verde Alto,-27.3923,-46.8703,2023-07-08,-3,Concluído
+1069,Vila Nova do Sul,-11.8186,-250.1000,2023-08-05,3816,Em análise
+1070,Ilha Formosa,0.8742,-49.7192,2025-09-14,4498,Concluído
+1071,,-26.9520,-40.2632,2024-05-25,2035,Em análise
+1072,Ilha Formosa,-3.4484,-54.5853,2023-05-15,644,Em análise
+1073,Campo Verde Alto,-22.6748,-60.8510,2025-02-05,1245,Inativo
+1074,Monte Alegre do Leste,-6.6299,-46.1561,2023-07-14,2720,Concluído
+1075,Monte Alegre do Leste,-30.6339,-41.3501,2024-10-23,170,Concluído
+1076,Santa Aurora,-32.7759,-59.6332,2024-07-18,-15,Inativo
+1077,Santa Aurora,-24.6620,-56.4382,2023-07-11,3322,Inativo
+1078,Cachoeira Grande,-15.2392,-68.1501,2025-09-01,3237,Ativo
+1079,Rio Claro do Norte,-8.5755,-67.8434,2024-03-02,2141,Concluído
+1080,Lagoa Funda,-24.9569,-60.5799,31/13/2024,3463,Em análise
+1081,Cachoeira Grande,-29.8876,-72.2634,2025-01-12,1846,Ativo
+1082,Ilha Formosa,3.3769,-71.4702,2023-04-07,176,Inativo
+1083,Campo Verde Alto,-28.2036,-47.5606,2025-04-15,2109,Em análise
+1084,Serra Dourada,-9.9761,-36.3781,2025-02-25,1351,Em análise
+1085,Rio Claro do Norte,abc,-37.7023,2025-11-13,3259,Inativo
+1086,Rio Claro do Norte,-95.2000,-41.4383,2023-02-23,2480,Ativo
+1087,Ilha Formosa,4.3861,-43.2599,2031-05-10,3045,Ativo
+1088,Porto Seguro do Oeste,-8.3934,-72.5192,2024-08-04,3561,Em análise
+1089,Terra Branca,0.8799,-55.5299,2023-07-06,4284,Em análise
+1090,n/a,-2.2884,-52.5494,2024-08-14,4863,Em análise
+1091,Lagoa Funda,-0.6349,-41.4322,2023-05-15,2007,Concluído
+1092,Boa Esperança do Mar,-9.8074,-58.5984,2023-08-28,2672,Inativo
+1093,Santa Aurora,-24.9394,-42.6824,2024-05-20,2273,Ativo
+1094,Porto Seguro do Oeste,3.0264,-69.7467,2025-07-16,4558,Inativo
+1095,Alto Horizonte,-14.9085,-45.9500,2024-01-03,2420,Inativo
+1096,Monte Alegre do Leste,-6.7121,-61.3642,2025-06-16,4544,Em análise
+1023,Rio Claro do Norte,-5.1875,-41.9911,2025-03-05,3903,Inativo
+1001,Terra Branca,-28.7694,-44.8211,2023-04-05,849,Ativo
+1075,Monte Alegre do Leste,-30.6339,-41.3501,2024-10-23,170,Concluído
+1082,Ilha Formosa,3.3769,-71.4702,2023-04-07,176,Inativo

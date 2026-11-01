@@ -1,0 +1,101 @@
+ID;Município;Latitude;Longitude;Data do registro;Quantidade de famílias;Situação
+5001;Jardim das Águas;3,0189;-57,9967;27/02/2023;4399;Ativo
+5002;Jardim das Águas;-10,8541;-38,4312;03/01/2023;3562;Concluído
+5003;Rio das Pedras Altas;-23,8548;200,5000;04/10/2023;1838;Ativo
+5004;Cruzeiro do Vale;-10,7494;-71,1156;18/01/2023;1100;Em análise
+5005;Morro Azul;-27,5183;-68,5239;27/09/2024;1490;Ativo
+5006;Cruzeiro do Vale;-11,2942;-65,8609;23/09/2023;524;Ativo
+5007;Cruzeiro do Vale;-25,1736;-47,1448;15/06/2024;4806;Concluído
+5008;Jardim das Águas;-21,6089;-42,8136;31/13/2024;4715;Em análise
+5009;Praia Grande do Sul;-14,1856;-59,9479;20/05/2024;609;Ativo
+5010;Praia Grande do Sul;-17,1113;-44,2286;14/08/2023;331;Ativo
+5011;Praia Grande do Sul;-11,2250;-39,7318;23/06/2024;2878;Concluído
+5012;n/a;-2,7181;-70,3870;16/05/2023;542;Ativo
+5013;São Tomé do Oeste;-6,3433;-48,4091;10/08/2025;3170;Em análise
+5014;Bela Vista do Planalto;2,7446;-59,4924;16/02/2025;492;Inativo
+5015;Ponte Alta do Norte;-28,0851;-63,5906;03/08/2024;1372;Concluído
+5016;Morro Azul;-12,1213;-39,4314;09/09/2024;3412;Em análise
+5017;Campina Verde;0,5993;-36,6062;06/02/2023;1249;Inativo
+5018;;-24,1332;-54,5714;09/03/2025;2319;Ativo
+5019;Colina Dourada;-17,0800;-58,9684;05/06/2025;4232;Ativo
+5020;Fazenda Nova do Leste;1,1823;-43,3612;13/09/2025;3270;Concluído
+5021;Morro Azul;-29,0656;-48,8970;03/04/2023;1720;Concluído
+5022;Colina Dourada;-28,8227;-50,1724;19/01/2023;1249;Ativo
+5023;   ;-9,6780;-70,3280;13/10/2023;1226;Em análise
+5024;Jardim das Águas;-10,1134;-54,9822;15/08/2023;3945;Concluído
+5025;;-29,7364;-69,1169;09/12/2024;3930;Inativo
+5026;Praia Grande do Sul;-32,1224;-250,1000;05/06/2025;4459;Ativo
+5027;Praia Grande do Sul;-21,6726;-48,5692;28/12/2023;-15;Em análise
+5028;Colina Dourada;-19,4835;-64,5339;11/09/2025;1837;Inativo
+5029;Vale do Sol Nascente;-1,9033;-44,8848;17/04/2023;4046;Em análise
+5030;São Tomé do Oeste;-31,8988;-71,9384;09/08/2024;1596;Em análise
+5031;Fazenda Nova do Leste;;-45,5211;03/06/2024;1816;Ativo
+5032;N/A;-15,1370;-60,1660;20/10/2024;25;Concluído
+5033;Campina Verde;-19,9277;-48,5609;13/02/2025;1642;Concluído
+5034;Colina Dourada;123,4500;-48,8380;13/12/2023;3804;Concluído
+5035;São Tomé do Oeste;2,9783;-45,4577;01/03/2023;9999999;Concluído
+5036;Campina Verde;-27,4454;-41,5926;10/05/2031;1287;Inativo
+5037;Bela Vista do Planalto;-32,4588;-36,1062;17/02/2025;1150;Concluído
+5038;Vale do Sol Nascente;-1,6061;-64,9804;10/04/2024;4115;Inativo
+5039;Cruzeiro do Vale;-20,6124;-52,3146;24/01/2023;2908;Concluído
+5040;Campina Verde;-10,8327;-38,6367;05/09/2024;4366;Inativo
+5041;Praia Grande do Sul;-13,5992;-39,8334;01/10/2023;1237;
+5042;Colina Dourada;-15,0073;-45,4427;11/01/2025;4256;Concluído
+5043;Rio das Pedras Altas;0,5627;-70,8407;02/05/2023;810;Concluído
+5044;Praia Grande do Sul;-31,9411;-39,0275;11/08/2023;;Inativo
+5045;São Tomé do Oeste;-22,4669;-53,6901;08/09/2024;4296;Em análise
+5046;Praia Grande do Sul;0,9247;-65,3016;14/03/2024;1006;Concluído
+5047;Fazenda Nova do Leste;-20,9928;-47,4961;01/01/1899;2490;Ativo
+5048;Colina Dourada;2,7012;-48,5486;;1134;Concluído
+5049;Vale do Sol Nascente;-4,6261;-69,4232;22/03/2024;-3;Inativo
+5050;São Tomé do Oeste;-16,6022;-53,4070;07/07/2024;doze;Em análise
+5051;Rio das Pedras Altas;-5,5583;-72,2596;15/08/2025;158;Concluído
+5052;Jardim das Águas;-13,3375;-61,7727;26/02/2023;1882;Ativo
+5053;Rio das Pedras Altas;abc;-71,4956;25/05/2023;1071;Concluído
+5054;Campina Verde;-1,8788;-63,1729;17/09/2023;4684;Concluído
+5055;São Tomé do Oeste;-20,5722;-62,3956;14/03/2025;603;Em análise
+5056;Bela Vista do Planalto;-8,8913;-42,5381;28/10/2023;1831;Ativo
+5057;Ponte Alta do Norte;-0,2146;-55,7566;14/09/2024;2204;Inativo
+5058;Bela Vista do Planalto;-12,9772;-63,9394;09/03/2023;422;Inativo
+5059;Vale do Sol Nascente;2,4254;-49,1105;10/04/2025;3661;Inativo
+5060;Ponte Alta do Norte;-19,8140;-72,3098;01/01/2024;161;Inativo
+5061;Praia Grande do Sul;-14,9591;-37,4836;27/11/2023;3550;Concluído
+5062;Praia Grande do Sul;-1,2847;-58,0627;23/05/2025;1772;Inativo
+5063;Jardim das Águas;-25,4523;-39,4867;05/11/2025;3325;Em análise
+5064;Bela Vista do Planalto;-1,1944;-72,4583;ontem;3538;Inativo
+5065;Bela Vista do Planalto;-29,7896;-41,0318;10/11/2025;4915;Inativo
+5066;São Tomé do Oeste;-21,8638;-55,5408;15/05/2023;39;Em análise
+5067;Jardim das Águas;3,5479;-36,0403;08/06/2025;292;Em análise
+5068;Vale do Sol Nascente;-19,4498;-72,9594;16/02/2024;12,5x;Inativo
+5069;Vale do Sol Nascente;-13,8200;-72,8119;05/02/2024;3282;Ativo
+5070;Morro Azul;-32,1452;-61,4387;19/02/2023;4345;Inativo
+5071;;0,9264;-43,2064;25/07/2025;2681;Concluído
+5072;Colina Dourada;-22,2013;-49,4891;27/01/2023;4212;
+5073;São Tomé do Oeste;-95,2000;-53,7894;19/09/2025;141;Inativo
+5074;Rio das Pedras Altas;-31,8159;-67,9425;13/02/2024;3707;Ativo
+5075;Campina Verde;-32,2841;-52,8051;09/08/2023;37;Concluído
+5076;Rio das Pedras Altas;-4,5659;-53,8871;22/02/2025;4318;Ativo
+5077;São Tomé do Oeste;-5,0020;-63,4166;08/05/2023;1691;Inativo
+5078;São Tomé do Oeste;-8,3026;-55,5071;16/02/2024;2363;Ativo
+5079;Cruzeiro do Vale;-8,9539;-65,4650;11/03/2025;2090;Em análise
+5080;Cruzeiro do Vale;-11,4251;-72,5262;09/08/2023;trinta;Inativo
+5081;Campina Verde;-14,3947;-46,0629;15/08/2024;3830;Ativo
+5082;Praia Grande do Sul;-25,4285;-35,8312;10/01/2024;3769;Ativo
+5083;Praia Grande do Sul;3,7881;-55,9209;07/07/2024;1736;Ativo
+5084;Cruzeiro do Vale;-29,5685;-44,5955;05/06/2024;4952;Em análise
+5085;Rio das Pedras Altas;-6,2732;-64,2074;01/07/2024;1313;Ativo
+5086;Fazenda Nova do Leste;-7,0997;-57,5941;14/03/2025;2827;Concluído
+5087;Jardim das Águas;-28,4054;-60,4097;27/06/2024;3272;Ativo
+5088;Vale do Sol Nascente;-5,9051;-38,7405;12/05/2024;542;Concluído
+5089;Morro Azul;4,9541;-50,6113;25/07/2024;2264;Ativo
+5090;Ponte Alta do Norte;-29,1350;-41,2823;30/02/2023;2052;Em análise
+5091;Morro Azul;-13,5834;-65,7857;01/07/2024;3287;Inativo
+5092;São Tomé do Oeste;-29,9381;-37,5283;20/08/2024;;Em análise
+5093;Fazenda Nova do Leste;-31,1389;-37,7825;16/03/2023;3408;Em análise
+5094;Ponte Alta do Norte;-21,6847;-44,9168;13/05/2025;1965;Em análise
+5095;Fazenda Nova do Leste;-11,8218;-58,0140;06/11/2023;625;Inativo
+5096;Praia Grande do Sul;1,4265;-54,1111;11/08/2023;3696;Concluído
+5085;Rio das Pedras Altas;-6,2732;-64,2074;01/07/2024;1313;Ativo
+5056;Bela Vista do Planalto;-8,8913;-42,5381;28/10/2023;1831;Ativo
+5061;Praia Grande do Sul;-14,9591;-37,4836;27/11/2023;3550;Concluído
+5051;Rio das Pedras Altas;-5,5583;-72,2596;15/08/2025;158;Concluído

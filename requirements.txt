@@ -1,0 +1,2 @@
+# Dependências do backend (o frontend usa npm: datacheck_front/package.json)
+-r datacheck_back/requirements.txt
